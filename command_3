@@ -1,0 +1,1 @@
+grep -f namesakes_preparation sample_cut.txt | wc -l >> namesakes_preparation
