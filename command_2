@@ -1,1 +1,1 @@
-sed '1d' sample_cut.txt | grep -vf marketing_2021-01-29.txt | cut -d ' ' -f1 > namesakes_preparation
+sed '1d' sample_cut.txt | grep -vf marketing_2021-03-11.txt | cut -d ' ' -f1 > namesakes_preparation
